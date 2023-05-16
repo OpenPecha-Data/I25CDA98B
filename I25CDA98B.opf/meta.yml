@@ -1,0 +1,18 @@
+id: I25CDA98B
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:56.718767
+last_modified: 2023-01-04 11:31:56.718786
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  4B06:
+    title: Pithy Advice on Checking One's Progress on the Path
+    base_file: 4B06.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
